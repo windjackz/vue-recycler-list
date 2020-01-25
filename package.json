@@ -5,6 +5,15 @@
   "private": false,
   "author": "fengsser",
   "main": "dist/vue-recycler-list.umd.min.js",
+  "keywords":["vue", "virtual list", "recycler list", "infinite scroller"],
+  "homepage": "https://github.com/windfser/vue-recycler-list/",
+  "bugs": {
+    "url": "https://github.com/windfser/vue-recycler-list/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/windfser/vue-recycler-list.git"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build --mode production --target lib --name vue-recycler-list ./src/index.js",
