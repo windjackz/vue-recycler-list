@@ -58,6 +58,9 @@ Vue.component('RecyclerList', RecyclerList);
   </div>
 </template>
 ```
+
+!(demo)[https://github.com/windfser/vue-recycler-list/blob/master/readme/demo.gif]
+
 ## Props
 
 |key|description|defualt|type/options|
