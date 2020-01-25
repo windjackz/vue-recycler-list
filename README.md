@@ -59,7 +59,7 @@ Vue.component('RecyclerList', RecyclerList);
 </template>
 ```
 
-!(demo)[https://github.com/windfser/vue-recycler-list/blob/master/readme/demo.gif]
+![demo](https://github.com/windfser/vue-recycler-list/blob/master/readme/demo.gif)
 
 ## Props
 
